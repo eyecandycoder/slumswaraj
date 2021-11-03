@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/20190627_105131-1.jpg"
+  bg_image: "/images/20190627_105131-1.jpg"
   icon: ''
   title: Slum Swaraj Foundation
   content: "“The best way to find yourself is to lose yourself in the service of others”"
