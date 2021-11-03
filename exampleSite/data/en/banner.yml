@@ -5,8 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Slum Swaraj Foundation
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: "“The best way to find yourself is to lose yourself in the service of others”"
   button:
     enable: true
     label: 'Explore Us '
